@@ -1,4 +1,7 @@
 .env
+.env.*
+!.env.gitpod
+!.env.example
 .xlsx
 .json
 .jsonl
